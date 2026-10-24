@@ -3,7 +3,7 @@ Exercises, Labs, and assignments for my introduction into programming course at 
 
 This repo tracks my coursework and progress during my first semester at the University of Jeddah.
 
-# Topics Covered:
+### Topics Covered:
 - Conditionals (`if / else`, `switch`)
 - Loops (`for`, `while`, `do-while`)
 - Functions & Modular Code
